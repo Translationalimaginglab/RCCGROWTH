@@ -1,8 +1,8 @@
-# MySurveyApp
+# ccRCCGrowth
 
 ## Introduction
 
-MySurveyApp is a web-based application designed to collect user responses through a structured questionnaire and provide insights using an integrated machine learning model. The application is ideal for researchers, marketers, or organizations looking to gather data and derive meaningful patterns or predictions from the responses.
+ccRCCGrowth is a web-based application designed to collect user responses through a structured questionnaire and provide insights using an integrated machine learning model. The application is ideal for researchers, marketers, or organizations looking to gather data and derive meaningful patterns or predictions from the responses.
 
 ## Features
 
@@ -39,7 +39,7 @@ After starting the Flask server, navigate to `http://localhost:5000` in your web
 
 ## Contributing
 
-We welcome contributions to MySurveyApp! If you're interested in improving the questionnaire, enhancing the machine learning model, or fixing bugs, please feel free to fork the repository and submit a pull request.
+We welcome contributions to ccRCCGrowth! If you're interested in improving the questionnaire, enhancing the machine learning model, or fixing bugs, please feel free to fork the repository and submit a pull request.
 
 ## License
 
