@@ -23,7 +23,7 @@ RCCGROWTH
 ### Steps
 
 1. **Clone the repository** to your local machine:
-   git clone https://github.com/yourusername/RCCGROWTH.git
+   git clone https://github.com/Translationalimaginglab/RCCGROWTH.git
 2. **Navigate to the project directory**: cd RCCGROWTH
 3. **Install the required Python packages**: pip install Flask pandas scikit-learn\
 Note: This command installs Flask, pandas, and scikit-learn. Adjust the command based on the actual dependencies of your project.
