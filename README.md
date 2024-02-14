@@ -1,8 +1,9 @@
-# ccRCCGrowth
+# RCCGROWTH
 
 ## Introduction
 
-ccRCCGrowth is a web-based application designed to collect user responses through a structured questionnaire and provide insights using an integrated machine learning model. The application is ideal for researchers, marketers, or organizations looking to gather data and derive meaningful patterns or predictions from the responses.
+RCCGROWTH
+ is a web-based application designed to collect user responses through a structured questionnaire and provide insights using an integrated machine learning model. The application is ideal for researchers, marketers, or organizations looking to gather data and derive meaningful patterns or predictions from the responses.
 
 ## Features
 
@@ -22,8 +23,8 @@ ccRCCGrowth is a web-based application designed to collect user responses throug
 ### Steps
 
 1. **Clone the repository** to your local machine:
-   git clone https://github.com/yourusername/MySurveyApp.git
-2. **Navigate to the project directory**: cd MySurveyApp
+   git clone https://github.com/yourusername/RCCGROWTH.git
+2. **Navigate to the project directory**: cd RCCGROWTH
 3. **Install the required Python packages**: pip install Flask pandas scikit-learn\
 Note: This command installs Flask, pandas, and scikit-learn. Adjust the command based on the actual dependencies of your project.
 
@@ -39,7 +40,7 @@ After starting the Flask server, navigate to `http://localhost:5000` in your web
 
 ## Contributing
 
-We welcome contributions to ccRCCGrowth! If you're interested in improving the questionnaire, enhancing the machine learning model, or fixing bugs, please feel free to fork the repository and submit a pull request.
+We welcome contributions to RCCGROWTH! If you're interested in improving the questionnaire, enhancing the machine learning model, or fixing bugs, please feel free to fork the repository and submit a pull request.
 
 ## License
 
